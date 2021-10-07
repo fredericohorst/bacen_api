@@ -1,0 +1,7 @@
+cod,name,link
+11,selic,https://dadosabertos.bcb.gov.br/dataset/11-taxa-de-juros---selic
+25134,,https://dadosabertos.bcb.gov.br/dataset/25134-saldo-de-depositos-de-poupanca/resource/df162c34-38b1-4014-8197-8736ce0083e3
+1619,minimum wage,
+189,IGP-M,
+433,IPCA,
+190,IGP-DI,
